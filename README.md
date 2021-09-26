@@ -27,9 +27,9 @@
 
 ## Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=loureirovinicius&theme=midnight-purple&text_color=376499&icon_color=376499&title_color=376499&hide_border=true" align="center"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=loureirovinicius&theme=midnight-purple&text_color=5AA5FA&icon_color=5AA5FA&title_color=5AA5FA&hide_border=true" align="center"></a>
 
 ## Most used languages:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loureirovinicius&theme=midnight-purple&hide_border=true&border_color=376499&title_color=376499&layout=compact" align="center"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loureirovinicius&theme=midnight-purple&hide_border=true&border_color=5AA5FA&title_color=FFFFFF&layout=compact" align="center"></a>
 
