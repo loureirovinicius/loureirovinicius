@@ -7,6 +7,7 @@
 - 🏫 I'm currently working on **small JavaScript projects**
 - 📖 I’m currently learning **Vue.js** and **ECMAScript 6 Funcionalities**
 - 🤔 I’m looking for help with **Kubernetes**
+- 💼 Take a look at my portfolio, if you're interested: **https://loureirovinicius.github.io/**
 - ⚡ Fun Fact: I used to maintain a Transformice server with some friends  
 
 ## Connect with me: 
