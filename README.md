@@ -3,12 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=loureirovinicius&color=blue)
 
 ## Here are some details:
-- 💻 I currently develop some projects using **front-end technologies**
-- 🏫 I'm currently working on **small JavaScript projects**
-- 📖 I’m currently learning **Vue.js** and **ECMAScript 6 Funcionalities**
-- 🤔 I’m looking for help with **Kubernetes**
-- 💼 Take a look at my portfolio, if you're interested: **https://loureirovinicius.github.io/**
-- ⚡ Fun Fact: I used to maintain a Transformice server with some friends  
+- 💻 I currently develop some projects using **infrastructure and cloud technologies**
+- 📖 I’m currently learning **Terraform** and **improving my AWS knowledge**
+- ⚡ Fun Fact: I used to maintain a Transformice server with some friends :)
 
 ## Connect with me: 
 
@@ -22,6 +19,7 @@
 - ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+- ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Stats:
 
