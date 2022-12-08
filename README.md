@@ -1,31 +1,18 @@
-<h1 align="center">Hi there, here are some things about me 🙋🏻‍♂️👋</h1>
+<a href="https://www.linkedin.com/in/viniciusloul/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![](https://komarev.com/ghpvc/?username=loureirovinicius&color=blue)
+## Hey you! 👋🏻
+I don't know how you got here but I hope you find something interesting and that might be helpful for you.
 
-## Here are some details:
-- 💻 I currently develop some projects using **infrastructure and cloud technologies**
-- 📖 I’m currently learning **Terraform** and **improving my AWS knowledge**
-- ⚡ Fun Fact: I used to maintain a Transformice server with some friends :)
+## Here are some stuff about me:
+- **Name:** Vinícius Loureiro
+- **Age:** 20
+- **Living in:** Minas Gerais, Brazil
+- **Stack:** Docker, k8s, Terraform, Ansible, Gitlab CI/CD, AWS, GCP, Python and Golang.
+- **University:** Unicesumar - Systems Development and Analysis
 
-## Connect with me: 
+## Curiosities:
+- When I was younger I used to maintain a Transformice and Habbo server and trying to solve their bugs just googling the error messages (sometimes it worked, sometimes not).
+- I really like producing learning content (like the "terraform-essentials" repo in my profile) so I can exercise my knowledge and simplify some difficult topics through examples. I also use these contents as "simplified docs" whenever I forget something.
+- I enjoy being part of communities and helping people during their learning journey.
 
-- <a href="https://www.linkedin.com/in/viniciusloul/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-## Technologies:
-
-- ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-- ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## Stats:
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=loureirovinicius&theme=midnight-purple&text_color=5AA5FA&icon_color=5AA5FA&title_color=5AA5FA&hide_border=true" align="center"></a>
-
-## Most used languages:
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loureirovinicius&theme=midnight-purple&hide_border=true&border_color=5AA5FA&title_color=FFFFFF&layout=compact" align="center"></a>
 
